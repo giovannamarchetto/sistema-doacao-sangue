@@ -21,3 +21,16 @@ Para implementar este banco de dados:
 - Adicionar tabela para controle de estoque de sangue
 - Implementar triggers para atualizar automaticamente a data da última doação
 - Criar views para relatórios gerenciais
+# 🩸 Uma Doação, Mil Sorrisos – CRUD em PHP e MySQL
+
+Este repositório contém uma aplicação CRUD simples para gerenciamento de doadores de sangue, desenvolvida como parte do projeto "Uma Doação, Mil Sorrisos", utilizando PHP, MySQL e HTML.
+
+## 📌 Funcionalidades
+
+- **Cadastrar doador** (Create)
+- **Listar doadores cadastrados** (Read)
+- **Editar dados do doador** (Update)
+- **Excluir doador** (Delete)
+
+## 📁 Estrutura dos Arquivos
+
